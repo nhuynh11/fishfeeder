@@ -1,0 +1,7 @@
+.card-body {
+    background-image: url("images/fish-background.jpg");    
+    background-size: 50%;
+}
+.card-title {
+    color: white;
+}
