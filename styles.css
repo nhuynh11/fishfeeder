@@ -1,7 +1,11 @@
-.card-body {
+.card-header {
     background-image: url("images/fish-background.jpg");    
     background-size: 50%;
 }
-.card-title {
+.nav-link{
     color: white;
+}
+#full-background {
+    background-image: url("images/fish-background.jpg");    
+    background-size: 50%;
 }
