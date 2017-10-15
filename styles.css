@@ -1,8 +1,14 @@
-.card-header {
+.nav {
     background-image: url("images/fish-background.jpg");    
     background-size: 50%;
 }
-.nav-link{
+.nav-link {
+    color: white;
+}
+.card-body {
+    background-color: rgb(114, 190, 240);
+}
+.card-title {
     color: white;
 }
 #full-background {
